@@ -1,0 +1,9 @@
+,January,February, March 
+Total Marketing Costs,$911 ,"$1,200 ",$875 
+Sales and Marketing Salaries,"$3,000 ","$3,000 ","$3,000 "
+Overhead Costs for Salaries,$375 ,$290 ,$370 
+Number of Paid Customers,300,315,337
+,,,
+CUSTOMER ACQUISITION COST,,,
+(Total marketing expenses + total sales expenses and salaries 2 months )/ # of customers acquired,n/a,13.47142857,13.4421365
+: ((Marketing Costs for January) + (0.5(Sales and Marketing Salaries for January + Overhead Costs for Salaries for January))+(0.5(Sales and Marketing Salaries for February + Overhead Costs for Salaries for February)))/Number of Paid Customers in February,,,
